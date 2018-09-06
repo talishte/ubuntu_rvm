@@ -21,7 +21,7 @@ You need `software-properties-common` installed in order to add `PPA` repositori
 If **not** installed, open a terminal (`Ctrl+Alt+T`) and run:
 
 ```term
-sudo apt-get install software-properties-common
+sudo apt-get install software-properties-common python-software-properties
 ```
 
 ## 1. Add the PPA and install the package
